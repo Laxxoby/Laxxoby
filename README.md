@@ -2,7 +2,7 @@
 
 ### GitHub Stats
 
-<img src="https://raw.githubusercontent.com/Laxxoby/Laxxoby/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
+<img src="assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Laxxoby&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Laxxoby')
 
