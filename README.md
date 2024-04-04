@@ -1,5 +1,5 @@
 ### Hi there 👋
-👋 ¡Hola! Soy Camilo, un apasionado del mundo de la programación y el desarrollo de software. Desde temprana edad, descubrí mi fascinación por la creación de soluciones tecnológicas y desde entonces no he dejado de aprender y mejorar mis habilidades en este emocionante campo.
+👋 ¡Hola! Soy Camilo, un apasionado del mundo de la programación y el desarrollo de software. Mi fascinación por la creación de soluciones tecnológicas me a llevado aprender y mejorar mis habilidades en este emocionante campo.
 
 ### GitHub Stats
 
