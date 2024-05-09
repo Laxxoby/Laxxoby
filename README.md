@@ -7,7 +7,7 @@
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Laxxoby&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Laxxoby')
 
-![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxxoby&layout=compact)
+![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxxoby&layout=compact&theme=dark)
 
 
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
